@@ -1,0 +1,121 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\saalv\\Downloads\\Taller1paradigmas\\TiendadeBelleza\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{7B6F0D38-8521-2A26-295C-1CA7876E08A9}|TiendadeBelleza\\TiendadeBelleza.csproj|c:\\users\\saalv\\downloads\\taller1paradigmas\\tiendadebelleza\\tiendadebelleza\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7B6F0D38-8521-2A26-295C-1CA7876E08A9}|TiendadeBelleza\\TiendadeBelleza.csproj|solutionrelative:tiendadebelleza\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7B6F0D38-8521-2A26-295C-1CA7876E08A9}|TiendadeBelleza\\TiendadeBelleza.csproj|c:\\users\\saalv\\downloads\\taller1paradigmas\\tiendadebelleza\\tiendadebelleza\\uicrearusuario.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7B6F0D38-8521-2A26-295C-1CA7876E08A9}|TiendadeBelleza\\TiendadeBelleza.csproj|solutionrelative:tiendadebelleza\\uicrearusuario.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7B6F0D38-8521-2A26-295C-1CA7876E08A9}|TiendadeBelleza\\TiendadeBelleza.csproj|c:\\users\\saalv\\downloads\\taller1paradigmas\\tiendadebelleza\\tiendadebelleza\\uiingresarusuario.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7B6F0D38-8521-2A26-295C-1CA7876E08A9}|TiendadeBelleza\\TiendadeBelleza.csproj|solutionrelative:tiendadebelleza\\uiingresarusuario.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7B6F0D38-8521-2A26-295C-1CA7876E08A9}|TiendadeBelleza\\TiendadeBelleza.csproj|c:\\users\\saalv\\downloads\\taller1paradigmas\\tiendadebelleza\\tiendadebelleza\\uiproductoshombre.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7B6F0D38-8521-2A26-295C-1CA7876E08A9}|TiendadeBelleza\\TiendadeBelleza.csproj|solutionrelative:tiendadebelleza\\uiproductoshombre.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7B6F0D38-8521-2A26-295C-1CA7876E08A9}|TiendadeBelleza\\TiendadeBelleza.csproj|c:\\users\\saalv\\downloads\\taller1paradigmas\\tiendadebelleza\\tiendadebelleza\\uicabello.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7B6F0D38-8521-2A26-295C-1CA7876E08A9}|TiendadeBelleza\\TiendadeBelleza.csproj|solutionrelative:tiendadebelleza\\uicabello.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7B6F0D38-8521-2A26-295C-1CA7876E08A9}|TiendadeBelleza\\TiendadeBelleza.csproj|c:\\users\\saalv\\downloads\\taller1paradigmas\\tiendadebelleza\\tiendadebelleza\\uimaquillaje.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7B6F0D38-8521-2A26-295C-1CA7876E08A9}|TiendadeBelleza\\TiendadeBelleza.csproj|solutionrelative:tiendadebelleza\\uimaquillaje.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 6,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{aa2115a1-9712-457b-9047-dbb71ca2cdd2}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "UICrearUsuario.cs",
+              "DocumentMoniker": "C:\\Users\\saalv\\Downloads\\Taller1paradigmas\\TiendadeBelleza\\TiendadeBelleza\\UICrearUsuario.cs",
+              "RelativeDocumentMoniker": "TiendadeBelleza\\UICrearUsuario.cs",
+              "ToolTip": "C:\\Users\\saalv\\Downloads\\Taller1paradigmas\\TiendadeBelleza\\TiendadeBelleza\\UICrearUsuario.cs",
+              "RelativeToolTip": "TiendadeBelleza\\UICrearUsuario.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-15T16:10:09.169Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "UIIngresarUsuario.cs",
+              "DocumentMoniker": "C:\\Users\\saalv\\Downloads\\Taller1paradigmas\\TiendadeBelleza\\TiendadeBelleza\\UIIngresarUsuario.cs",
+              "RelativeDocumentMoniker": "TiendadeBelleza\\UIIngresarUsuario.cs",
+              "ToolTip": "C:\\Users\\saalv\\Downloads\\Taller1paradigmas\\TiendadeBelleza\\TiendadeBelleza\\UIIngresarUsuario.cs",
+              "RelativeToolTip": "TiendadeBelleza\\UIIngresarUsuario.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-15T16:09:38.941Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "UIProductosHombre.cs",
+              "DocumentMoniker": "C:\\Users\\saalv\\Downloads\\Taller1paradigmas\\TiendadeBelleza\\TiendadeBelleza\\UIProductosHombre.cs",
+              "RelativeDocumentMoniker": "TiendadeBelleza\\UIProductosHombre.cs",
+              "ToolTip": "C:\\Users\\saalv\\Downloads\\Taller1paradigmas\\TiendadeBelleza\\TiendadeBelleza\\UIProductosHombre.cs",
+              "RelativeToolTip": "TiendadeBelleza\\UIProductosHombre.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-15T16:08:06.85Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "UICabello.cs",
+              "DocumentMoniker": "C:\\Users\\saalv\\Downloads\\Taller1paradigmas\\TiendadeBelleza\\TiendadeBelleza\\UICabello.cs",
+              "RelativeDocumentMoniker": "TiendadeBelleza\\UICabello.cs",
+              "ToolTip": "C:\\Users\\saalv\\Downloads\\Taller1paradigmas\\TiendadeBelleza\\TiendadeBelleza\\UICabello.cs",
+              "RelativeToolTip": "TiendadeBelleza\\UICabello.cs",
+              "ViewState": "AgIAABkAAAAAAAAAAAAQwGYAAAAvAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-15T16:07:40.044Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "UIMaquillaje.cs",
+              "DocumentMoniker": "C:\\Users\\saalv\\Downloads\\Taller1paradigmas\\TiendadeBelleza\\TiendadeBelleza\\UIMaquillaje.cs",
+              "RelativeDocumentMoniker": "TiendadeBelleza\\UIMaquillaje.cs",
+              "ToolTip": "C:\\Users\\saalv\\Downloads\\Taller1paradigmas\\TiendadeBelleza\\TiendadeBelleza\\UIMaquillaje.cs",
+              "RelativeToolTip": "TiendadeBelleza\\UIMaquillaje.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-15T16:07:11.44Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\saalv\\Downloads\\Taller1paradigmas\\TiendadeBelleza\\TiendadeBelleza\\Program.cs",
+              "RelativeDocumentMoniker": "TiendadeBelleza\\Program.cs",
+              "ToolTip": "C:\\Users\\saalv\\Downloads\\Taller1paradigmas\\TiendadeBelleza\\TiendadeBelleza\\Program.cs",
+              "RelativeToolTip": "TiendadeBelleza\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAC0AAAAYAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-14T18:26:22.322Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

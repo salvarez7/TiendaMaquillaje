@@ -1,0 +1,54 @@
+﻿string menu =
+"""
+ ______     __     ______     __         ______     ______   ______     ______     ______    
+/\  == \   /\ \   /\  == \   /\ \       /\  __ \   /\__  _\ /\  ___\   /\  ___\   /\  __ \   
+\ \  __<   \ \ \  \ \  __<   \ \ \____  \ \ \/\ \  \/_/\ \/ \ \  __\   \ \ \____  \ \  __ \  
+ \ \_____\  \ \_\  \ \_____\  \ \_____\  \ \_____\    \ \_\  \ \_____\  \ \_____\  \ \_\ \_\ 
+  \/_____/   \/_/   \/_____/   \/_____/   \/_____/     \/_/   \/_____/   \/_____/   \/_/\/_/ 
+                                                                                             
+1. Comprar productos de maquillaje
+2. Comprar productos del cabello
+3. Comprar productos para hombre
+4. Crear un usuario
+5. Ingresar usuario
+6.Salir 
+-------------------------
+Ingrese una opción: 
+""";
+
+do
+{
+    Console.Write(menu);
+    string entrada = Console.ReadLine();
+
+    switch (entrada)
+    {
+        case "1":
+            UIUsuarios.GestionarUsuarios();
+            break;
+
+        case "2":
+            UICabello.Mostrar();
+            break;
+
+        case "3":
+            UIElementos.GestionarElementos();
+            break;
+
+        case "4":
+            UIPrestamos.GestionarPrestamos();
+            break;
+
+        case "5":
+            UIRetornos.GestionarRetornos();
+            break;
+
+        case "6":
+            return;
+
+        default:
+            Console.WriteLine("Opción invalida");
+            break;
+    }
+}
+while (true);

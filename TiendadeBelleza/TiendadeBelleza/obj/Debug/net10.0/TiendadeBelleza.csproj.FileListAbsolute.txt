@@ -1,0 +1,15 @@
+C:\Users\saalv\Downloads\Taller1paradigmas\TiendadeBelleza\TiendadeBelleza\bin\Debug\net10.0\TiendadeBelleza.exe
+C:\Users\saalv\Downloads\Taller1paradigmas\TiendadeBelleza\TiendadeBelleza\bin\Debug\net10.0\TiendadeBelleza.deps.json
+C:\Users\saalv\Downloads\Taller1paradigmas\TiendadeBelleza\TiendadeBelleza\bin\Debug\net10.0\TiendadeBelleza.runtimeconfig.json
+C:\Users\saalv\Downloads\Taller1paradigmas\TiendadeBelleza\TiendadeBelleza\bin\Debug\net10.0\TiendadeBelleza.dll
+C:\Users\saalv\Downloads\Taller1paradigmas\TiendadeBelleza\TiendadeBelleza\bin\Debug\net10.0\TiendadeBelleza.pdb
+C:\Users\saalv\Downloads\Taller1paradigmas\TiendadeBelleza\TiendadeBelleza\obj\Debug\net10.0\TiendadeBelleza.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\saalv\Downloads\Taller1paradigmas\TiendadeBelleza\TiendadeBelleza\obj\Debug\net10.0\TiendadeBelleza.AssemblyInfoInputs.cache
+C:\Users\saalv\Downloads\Taller1paradigmas\TiendadeBelleza\TiendadeBelleza\obj\Debug\net10.0\TiendadeBelleza.AssemblyInfo.cs
+C:\Users\saalv\Downloads\Taller1paradigmas\TiendadeBelleza\TiendadeBelleza\obj\Debug\net10.0\TiendadeBelleza.csproj.CoreCompileInputs.cache
+C:\Users\saalv\Downloads\Taller1paradigmas\TiendadeBelleza\TiendadeBelleza\obj\Debug\net10.0\TiendadeBelleza.sourcelink.json
+C:\Users\saalv\Downloads\Taller1paradigmas\TiendadeBelleza\TiendadeBelleza\obj\Debug\net10.0\TiendadeBelleza.dll
+C:\Users\saalv\Downloads\Taller1paradigmas\TiendadeBelleza\TiendadeBelleza\obj\Debug\net10.0\refint\TiendadeBelleza.dll
+C:\Users\saalv\Downloads\Taller1paradigmas\TiendadeBelleza\TiendadeBelleza\obj\Debug\net10.0\TiendadeBelleza.pdb
+C:\Users\saalv\Downloads\Taller1paradigmas\TiendadeBelleza\TiendadeBelleza\obj\Debug\net10.0\TiendadeBelleza.genruntimeconfig.cache
+C:\Users\saalv\Downloads\Taller1paradigmas\TiendadeBelleza\TiendadeBelleza\obj\Debug\net10.0\ref\TiendadeBelleza.dll
