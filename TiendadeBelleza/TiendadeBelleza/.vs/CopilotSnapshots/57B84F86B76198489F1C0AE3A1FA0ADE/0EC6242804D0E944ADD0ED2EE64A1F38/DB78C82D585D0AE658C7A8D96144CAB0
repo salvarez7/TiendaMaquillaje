@@ -1,0 +1,82 @@
+﻿using TiendadeBelleza;
+
+string menu =
+"""
+                /\/\
+               /  \ \
+              / /\ \ \
+              \/ /\/ /
+             / /\/ /\
+            / /\ \/\ \
+           / / /\ \ \ \
+          /\/ / / /\ \ \ \/\
+         /  \/ / /  \ \ \ \ \
+        / /\ \/ /    \ \/\ \ \       
+       |  \/  |     | | (_)               
+       | \  / | ___ | |_ ___   _____  ___ 
+       | |\/| |/ _ \| __| \ \ / / _ \/ __|
+       | |  | | (_) | |_| |\ V / (_) \__ \
+       |_|  |_|\___/ \__|_| \_/ \___/|___/
+        \/ /\/ /      \/ /\/ /
+        / /\/ /\      / /\/ /\
+        \ \ \/\ \    / /\ \/ /
+        \ \ \ \ \  / / /\  /
+         \/\ \ \ \/ / / /\/
+            \ \ \ \/ / /
+             \ \/\ \/ /
+               \/ /\/ /
+               / /\/ /\
+               \ \ \/ /
+                \ \  /
+                 \/\/
+1. Crear un usuario
+2. Ingresar usuario                                                                                            
+3. Comprar productos de maquillaje
+4. Comprar productos del cabello
+5. Comprar productos para hombre
+6. Finalizar compra
+7.Salir 
+-------------------------
+Ingrese una opción: 
+""";
+
+do
+{
+    Console.Write(menu);
+    string entrada = Console.ReadLine();
+
+    switch (entrada)
+    {
+        case "1":
+            
+            break;
+
+        case "2":
+
+            break;
+
+        case "3":
+            UIMaquillaje.Mostrar();
+            break;
+
+        case "4":
+            UICabello.Mostrar();
+            break;
+
+        case "5":
+            UIProductosHombre.Mostrar();
+            break;
+
+        case "6":
+
+            break;
+
+        case "7":
+            return;
+
+        default:
+            Console.WriteLine("Opción invalida");
+            break;
+    }
+}
+while (true);

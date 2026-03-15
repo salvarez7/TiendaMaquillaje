@@ -11,13 +11,12 @@ string menu =
            / / /\ \ \ \
           /\/ / / /\ \ \ \/\
          /  \/ / /  \ \ \ \ \
-        / /\ \/ /    \ \/\ \ \
-     __  __       _   _                
-    |  \/  |     | | (_)               
-    | \  / | ___ | |_ ___   _____  ___ 
-    | |\/| |/ _ \| __| \ \ / / _ \/ __|
-    | |  | | (_) | |_| |\ V / (_) \__ \
-    |_|  |_|\___/ \__|_| \_/ \___/|___/
+        / /\ \/ /    \ \/\ \ \       
+       |  \/  |     | | (_)               
+       | \  / | ___ | |_ ___   _____  ___ 
+       | |\/| |/ _ \| __| \ \ / / _ \/ __|
+       | |  | | (_) | |_| |\ V / (_) \__ \
+       |_|  |_|\___/ \__|_| \_/ \___/|___/
         \/ /\/ /      \/ /\/ /
         / /\/ /\      / /\/ /\
         \ \ \/\ \    / /\ \/ /
@@ -26,17 +25,17 @@ string menu =
             \ \ \ \/ / /
              \ \/\ \/ /
                \/ /\/ /
-              / /\/ /\
-              \ \ \/ /
+               / /\/ /\
+               \ \ \/ /
                 \ \  /
                  \/\/
-                                                                                             
-1. Comprar productos de maquillaje
-2. Comprar productos del cabello
-3. Comprar productos para hombre
-4. Crear un usuario
-5. Ingresar usuario
-6.Salir 
+1. Crear un usuario
+2. Ingresar usuario                                                                                            
+3. Comprar productos de maquillaje
+4. Comprar productos del cabello
+5. Comprar productos para hombre
+6. Finalizar compra
+7.Salir 
 -------------------------
 Ingrese una opción: 
 """;
@@ -49,26 +48,30 @@ do
     switch (entrada)
     {
         case "1":
-            
+            UICrearUsuario.Mostrar();
             break;
 
         case "2":
-            UICabello.Mostrar();
+
             break;
 
         case "3":
-            
+            UIMaquillaje.Mostrar();
             break;
 
         case "4":
-            
+            UICabello.Mostrar();
             break;
 
         case "5":
-            
+            UIProductosHombre.Mostrar();
             break;
 
         case "6":
+
+            break;
+
+        case "7":
             return;
 
         default:
