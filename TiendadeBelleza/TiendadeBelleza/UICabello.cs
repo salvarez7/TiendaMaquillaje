@@ -10,8 +10,7 @@ namespace TiendadeBelleza
     {
         public static void Mostrar()
         {
-            // Intentar localizar la carpeta "Archivos" relativa al proyecto/archivo fuente.
-            // Empezamos desde el directorio base de la aplicación y subimos hasta la raíz buscando una carpeta llamada "Archivos" o "archivos".
+            // Empezamos desde el directorio base de la aplicación y subimos hasta la raíz buscando una carpeta llamada "Archivos" 
             string BuscarCarpetaArchivos(string inicio)
             {
                 var dir = new DirectoryInfo(inicio);
@@ -36,20 +35,6 @@ namespace TiendadeBelleza
                 if (File.Exists(p)) ruta = p;
             }
 
-            // 2) Si no se encontró, intentar rutas relativas conocidas
-            if (ruta == null)
-            {
-                var posiblesRutas = new[] {
-                    Path.Combine(Environment.CurrentDirectory, "Archivos", "productosCabello.csv"),
-                    Path.Combine(Environment.CurrentDirectory, "archivos", "productosCabello.csv"),
-                    Path.Combine(AppContext.BaseDirectory, "Archivos", "productosCabello.csv"),
-                    Path.Combine(AppContext.BaseDirectory, "archivos", "productosCabello.csv"),
-                    Path.Combine("Archivos", "productosCabello.csv"),
-                    Path.Combine("archivos", "productosCabello.csv")
-                };
-
-                ruta = posiblesRutas.FirstOrDefault(File.Exists);
-            }
 
             if (ruta == null)
             {

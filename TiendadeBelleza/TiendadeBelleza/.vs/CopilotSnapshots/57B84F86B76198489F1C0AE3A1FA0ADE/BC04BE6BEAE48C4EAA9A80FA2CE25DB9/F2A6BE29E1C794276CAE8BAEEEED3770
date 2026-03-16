@@ -52,12 +52,11 @@ do
             break;
 
         case "2":
-            UIIngresarUsuario.Mostrar();             
+
             break;
 
         case "3":
             UIMaquillaje.Mostrar();
-          
             break;
 
         case "4":

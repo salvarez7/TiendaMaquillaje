@@ -64,72 +64,30 @@ namespace TiendadeBelleza
             catch (Exception ex)
             {
                 Console.WriteLine($"Error al leer el archivo: {ex.Message}");
-                Console.WriteLine("Presione Enter para volver al menú...");
-                Console.ReadLine();
                 return;
-            }
-
-            List<string> ParseCsvLine(string line)
-            {
-                var result = new List<string>();
-                if (line == null) return result;
-                var sb = new StringBuilder();
-                bool inQuotes = false;
-                for (int i = 0; i < line.Length; i++)
-                {
-                    char c = line[i];
-                    if (c == '"')
-                    {
-                        if (inQuotes && i + 1 < line.Length && line[i + 1] == '"')
-                        {
-                            sb.Append('"');
-                            i++; // escaped quote
-                        }
-                        else
-                        {
-                            inQuotes = !inQuotes;
-                        }
-                    }
-                    else if ((c == ',' || c == ';') && !inQuotes)
-                    {
-                        result.Add(sb.ToString());
-                        sb.Clear();
-                    }
-                    else
-                    {
-                        sb.Append(c);
-                    }
-                }
-                result.Add(sb.ToString());
-                return result;
             }
 
             var productos = new List<(string Nombre, string Precio)>();
 
             foreach (var linea in lineas)
             {
-                try
+                var columnas = linea.Split(',');
+                if (columnas.Length < 2)
                 {
-                    var columnas = ParseCsvLine(linea).ToArray();
-                    if (columnas.Length == 0) continue;
-
-                    string nombre = columnas.Length > 1 ? columnas[1].Trim() : columnas[0].Trim();
-                    string precio = columnas[columnas.Length - 1].Trim();
-
-                    productos.Add((nombre, precio));
+                    columnas = linea.Split(';');
                 }
-                catch
-                {
-                    // ignore malformed line
-                    continue;
-                }
+
+                if (columnas.Length == 0) continue;
+
+                string nombre = columnas.Length > 1 ? columnas[1].Trim() : columnas[0].Trim();
+                string precio = columnas[columnas.Length - 1].Trim();
+
+                productos.Add((nombre, precio));
             }
 
             if (productos.Count == 0)
             {
                 Console.WriteLine("No hay productos en el archivo.");
-                Console.WriteLine("Presione Enter para volver al menú...");
-                Console.ReadLine();
                 return;
             }
 
@@ -148,8 +106,6 @@ namespace TiendadeBelleza
                 {
                     var elegido = productos[seleccionIndex - 1];
                     Console.WriteLine($"Has seleccionado: {elegido.Nombre} - {elegido.Precio}");
-                    Console.WriteLine("Presione Enter para volver al menú...");
-                    Console.ReadLine();
                     return;
                 }
             }
@@ -163,9 +119,6 @@ namespace TiendadeBelleza
             {
                 Console.WriteLine("Producto no encontrado.");
             }
-
-            Console.WriteLine("Presione Enter para volver al menú...");
-            Console.ReadLine();
         }
     }
 }
