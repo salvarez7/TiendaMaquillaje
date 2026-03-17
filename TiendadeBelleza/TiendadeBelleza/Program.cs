@@ -29,7 +29,8 @@ string menu1 = """
                 \ \  /
                  \/\/
 1. Crear un usuario
-2. Ingresar usuario                                                                                            
+2. Ingresar usuario
+3. Eliminar usuario                                                                                           
 -------------------------
 -------------------------
 Ingrese una opción: 
@@ -56,6 +57,7 @@ do
             UICrearUsuario.Mostrar();
             Console.Write(menu2);
             var entrada2 = Console.ReadLine();
+
             switch (entrada2)
             {
                 case "1":
@@ -77,7 +79,9 @@ do
                     Console.WriteLine("Opción invalida");
                     break;
             }
-            break;
+            break; 
+
+
 
         case "2":
             UIIngresarUsuario.Mostrar();
@@ -107,6 +111,10 @@ do
                         break;
                 }
             }
+            break;
+
+        case "3":
+            UIEliminarUsuario.Mostrar();
             break;
 
         default:

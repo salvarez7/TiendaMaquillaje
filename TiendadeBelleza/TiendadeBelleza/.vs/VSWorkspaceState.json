@@ -1,7 +1,9 @@
 {
   "ExpandedNodes": [
-    ""
+    "",
+    "\\Archivos",
+    "\\bin"
   ],
-  "SelectedNode": "\\UIIngresarUsuario.cs",
+  "SelectedNode": "\\Caja.cs",
   "PreviewInSolutionExplorer": false
 }
