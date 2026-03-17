@@ -92,7 +92,8 @@ namespace TiendadeBelleza
                 return s;
             }
 
-            string registro = $"{Escape(cedula)},{Escape(nombre)},{Escape(ciudad)}";
+            var fecha = DateTime.Now.ToString("yyyy-MM-dd");
+            string registro = $"{Escape(cedula)},{Escape(nombre)},{Escape(ciudad)},{Escape(fecha)}";
 
             try
             {
@@ -101,7 +102,7 @@ namespace TiendadeBelleza
                     // Create file with header and first record
                     using (var sw = new StreamWriter(ruta, append: false, encoding: Encoding.UTF8))
                     {
-                        sw.WriteLine("Cedula,Nombre,Ciudad");
+                        sw.WriteLine("Cedula,Nombre,Ciudad,Fecha");
                         sw.WriteLine(registro);
                     }
                 }

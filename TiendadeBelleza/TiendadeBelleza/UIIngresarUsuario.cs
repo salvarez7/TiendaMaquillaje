@@ -3,6 +3,7 @@ using System.Collections.Generic;
 using System.IO;
 using System.Linq;
 using System.Text;
+using System.Globalization;
 
 namespace TiendadeBelleza
 {
@@ -54,11 +55,28 @@ namespace TiendadeBelleza
                     {
                         string nombre = campos.Count > 1 ? campos[1] : "No registrado";
                         string ciudad = campos.Count > 2 ? campos[2] : "No registrada";
+                        string fechaStr = campos.Count > 3 ? campos[3] : null;
 
                         Console.WriteLine("\n✅ ¡Usuario encontrado!");
                         Console.WriteLine("-----------------------------");
                         Console.WriteLine($"Nombre: {nombre}");
                         Console.WriteLine($"Ciudad: {ciudad}");
+
+                        if (!string.IsNullOrEmpty(fechaStr))
+                        {
+                            // Intentar parsear la fecha en el formato esperado (yyyy-MM-dd)
+                            if (DateTime.TryParseExact(fechaStr, "yyyy-MM-dd", CultureInfo.InvariantCulture, DateTimeStyles.None, out var fechaRegistro))
+                            {
+                                Console.WriteLine($"Fecha registro: {fechaRegistro:yyyy-MM-dd}");
+                                int dias = CalcularDiasDesdeRegistro(fechaRegistro);
+                                Console.WriteLine($"Días desde el registro: {dias}");
+                            }
+                            else
+                            {
+                                Console.WriteLine($"Fecha registro: {fechaStr} (formato desconocido)");
+                            }
+                        }
+
                         Console.WriteLine("-----------------------------");
                         encontrado = true;
                         break;
@@ -131,6 +149,13 @@ namespace TiendadeBelleza
         {
             Console.WriteLine("\nPresione Enter para volver al menú...");
             Console.ReadLine();
+        }
+
+        protected static int CalcularDiasDesdeRegistro(DateTime fechaRegistro)
+        {
+            var hoy = DateTime.Now.Date;
+            var registro = fechaRegistro.Date;
+            return (int)(hoy - registro).TotalDays;
         }
     }
 }

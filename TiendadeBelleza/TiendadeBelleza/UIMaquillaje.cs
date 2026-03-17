@@ -147,9 +147,7 @@ namespace TiendadeBelleza
                 if (seleccionIndex >= 1 && seleccionIndex <= productos.Count)
                 {
                     var elegido = productos[seleccionIndex - 1];
-                    Console.WriteLine($"Has seleccionado: {elegido.Nombre} - {elegido.Precio}");
-                    Console.WriteLine("Presione Enter para volver al menú...");
-                    Console.ReadLine();
+                    Caja.AddItem(elegido.Nombre, elegido.Precio);
                     return;
                 }
             }
@@ -157,7 +155,7 @@ namespace TiendadeBelleza
             var encontrado = productos.FirstOrDefault(p => string.Equals(p.Nombre, respuesta?.Trim(), StringComparison.OrdinalIgnoreCase));
             if (!string.IsNullOrEmpty(encontrado.Nombre))
             {
-                Console.WriteLine($"Has seleccionado: {encontrado.Nombre} - {encontrado.Precio}");
+                Caja.AddItem(encontrado.Nombre, encontrado.Precio);
             }
             else
             {

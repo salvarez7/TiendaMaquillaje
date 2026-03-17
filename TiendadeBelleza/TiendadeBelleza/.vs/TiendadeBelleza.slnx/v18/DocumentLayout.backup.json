@@ -1,37 +1,61 @@
 {
   "Version": 1,
-  "WorkspaceRootPath": "C:\\Users\\saalv\\Downloads\\TiendaDeMaquillaje\\TiendadeBelleza\\TiendadeBelleza\\",
+  "WorkspaceRootPath": "C:\\Users\\sofia\\Desktop\\TiendaMaquillaje\\TiendaMaquillaje\\TiendadeBelleza\\TiendadeBelleza\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\saalv\\Downloads\\TiendaDeMaquillaje\\TiendadeBelleza\\TiendadeBelleza\\Program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\sofia\\Desktop\\TiendaMaquillaje\\TiendaMaquillaje\\TiendadeBelleza\\TiendadeBelleza\\Program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\saalv\\Downloads\\TiendaDeMaquillaje\\TiendadeBelleza\\TiendadeBelleza\\UIMaquillaje.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:UIMaquillaje.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\sofia\\Desktop\\TiendaMaquillaje\\TiendaMaquillaje\\TiendadeBelleza\\TiendadeBelleza\\Caja.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Caja.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\saalv\\Downloads\\TiendaDeMaquillaje\\TiendadeBelleza\\TiendadeBelleza\\UICabello.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:UICabello.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\saalv\\Downloads\\TiendaDeMaquillaje\\TiendadeBelleza\\TiendadeBelleza\\TiendadeBelleza.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}",
-      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:TiendadeBelleza.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\saalv\\Downloads\\TiendaDeMaquillaje\\TiendadeBelleza\\TiendadeBelleza\\UICrearUsuario.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:UICrearUsuario.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\saalv\\Downloads\\TiendaDeMaquillaje\\TiendadeBelleza\\TiendadeBelleza\\UIIngresarUsuario.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\sofia\\Desktop\\TiendaMaquillaje\\TiendaMaquillaje\\TiendadeBelleza\\TiendadeBelleza\\UIIngresarUsuario.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:UIIngresarUsuario.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\saalv\\Downloads\\TiendaDeMaquillaje\\TiendadeBelleza\\TiendadeBelleza\\UIFactura.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\sofia\\Desktop\\TiendaMaquillaje\\TiendaMaquillaje\\TiendadeBelleza\\TiendadeBelleza\\Descuento.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Descuento.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\sofia\\Desktop\\TiendaMaquillaje\\TiendaMaquillaje\\TiendadeBelleza\\TiendadeBelleza\\Archivos\\productosCabello.csv||{8B382828-6202-11D1-8870-0000F87579D2}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Archivos\\productosCabello.csv||{8B382828-6202-11D1-8870-0000F87579D2}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\sofia\\Desktop\\TiendaMaquillaje\\TiendaMaquillaje\\TiendadeBelleza\\TiendadeBelleza\\UICabello.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:UICabello.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\sofia\\Desktop\\TiendaMaquillaje\\TiendaMaquillaje\\TiendadeBelleza\\TiendadeBelleza\\Archivos\\productosHombre.csv||{8B382828-6202-11D1-8870-0000F87579D2}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Archivos\\productosHombre.csv||{8B382828-6202-11D1-8870-0000F87579D2}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\sofia\\Desktop\\TiendaMaquillaje\\TiendaMaquillaje\\TiendadeBelleza\\TiendadeBelleza\\UIMaquillaje.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:UIMaquillaje.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\sofia\\Desktop\\TiendaMaquillaje\\TiendaMaquillaje\\TiendadeBelleza\\TiendadeBelleza\\Archivos\\clientes.csv||{8B382828-6202-11D1-8870-0000F87579D2}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Archivos\\clientes.csv||{8B382828-6202-11D1-8870-0000F87579D2}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\sofia\\Desktop\\TiendaMaquillaje\\TiendaMaquillaje\\TiendadeBelleza\\TiendadeBelleza\\UICrearUsuario.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:UICrearUsuario.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\sofia\\Desktop\\TiendaMaquillaje\\TiendaMaquillaje\\TiendadeBelleza\\TiendadeBelleza\\Archivos\\maquillaje.csv||{8B382828-6202-11D1-8870-0000F87579D2}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Archivos\\maquillaje.csv||{8B382828-6202-11D1-8870-0000F87579D2}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\sofia\\Desktop\\TiendaMaquillaje\\TiendaMaquillaje\\TiendadeBelleza\\TiendadeBelleza\\UIFactura.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:UIFactura.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\saalv\\Downloads\\TiendaDeMaquillaje\\TiendadeBelleza\\TiendadeBelleza\\UIProductosHombre.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\sofia\\Desktop\\TiendaMaquillaje\\TiendaMaquillaje\\TiendadeBelleza\\TiendadeBelleza\\TiendadeBelleza.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:TiendadeBelleza.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\sofia\\Desktop\\TiendaMaquillaje\\TiendaMaquillaje\\TiendadeBelleza\\TiendadeBelleza\\UIProductosHombre.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:UIProductosHombre.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
@@ -42,109 +66,192 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 1,
+          "SelectedChildIndex": 0,
           "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\sofia\\Desktop\\TiendaMaquillaje\\TiendaMaquillaje\\TiendadeBelleza\\TiendadeBelleza\\Program.cs",
+              "RelativeDocumentMoniker": "Program.cs",
+              "ToolTip": "C:\\Users\\sofia\\Desktop\\TiendaMaquillaje\\TiendaMaquillaje\\TiendadeBelleza\\TiendadeBelleza\\Program.cs",
+              "RelativeToolTip": "Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-15T20:17:06.376Z",
+              "IsPinned": true,
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{cce594b6-0c39-4442-ba28-10c64ac7e89f}"
+            },
             {
               "$type": "Bookmark",
               "Name": "ST:0:0:{aa2115a1-9712-457b-9047-dbb71ca2cdd2}"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 0,
-              "Title": "Program.cs",
-              "DocumentMoniker": "C:\\Users\\saalv\\Downloads\\TiendaDeMaquillaje\\TiendadeBelleza\\TiendadeBelleza\\Program.cs",
-              "RelativeDocumentMoniker": "Program.cs",
-              "ToolTip": "C:\\Users\\saalv\\Downloads\\TiendaDeMaquillaje\\TiendadeBelleza\\TiendadeBelleza\\Program.cs",
-              "RelativeToolTip": "Program.cs",
-              "ViewState": "AgIAACgAAAAAAAAAAAAiwDYAAAAMAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-03-15T20:17:06.376Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 1,
-              "Title": "UIMaquillaje.cs",
-              "DocumentMoniker": "C:\\Users\\saalv\\Downloads\\TiendaDeMaquillaje\\TiendadeBelleza\\TiendadeBelleza\\UIMaquillaje.cs",
-              "RelativeDocumentMoniker": "UIMaquillaje.cs",
-              "ToolTip": "C:\\Users\\saalv\\Downloads\\TiendaDeMaquillaje\\TiendadeBelleza\\TiendadeBelleza\\UIMaquillaje.cs",
-              "RelativeToolTip": "UIMaquillaje.cs",
-              "ViewState": "AgIAAGkAAAAAAAAAAAAuwAAAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-03-15T20:18:53.884Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 2,
-              "Title": "UICabello.cs",
-              "DocumentMoniker": "C:\\Users\\saalv\\Downloads\\TiendaDeMaquillaje\\TiendadeBelleza\\TiendadeBelleza\\UICabello.cs",
-              "RelativeDocumentMoniker": "UICabello.cs",
-              "ToolTip": "C:\\Users\\saalv\\Downloads\\TiendaDeMaquillaje\\TiendadeBelleza\\TiendadeBelleza\\UICabello.cs",
-              "RelativeToolTip": "UICabello.cs",
-              "ViewState": "AgIAAEoAAAAAAAAAAAAkwFEAAAA1AAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-03-15T20:26:39.552Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
               "DocumentIndex": 3,
-              "Title": "TiendadeBelleza.csproj",
-              "DocumentMoniker": "C:\\Users\\saalv\\Downloads\\TiendaDeMaquillaje\\TiendadeBelleza\\TiendadeBelleza\\TiendadeBelleza.csproj",
-              "RelativeDocumentMoniker": "TiendadeBelleza.csproj",
-              "ToolTip": "C:\\Users\\saalv\\Downloads\\TiendaDeMaquillaje\\TiendadeBelleza\\TiendadeBelleza\\TiendadeBelleza.csproj",
-              "RelativeToolTip": "TiendadeBelleza.csproj",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAgAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
-              "WhenOpened": "2026-03-15T20:26:42.579Z",
+              "Title": "Descuento.cs",
+              "DocumentMoniker": "C:\\Users\\sofia\\Desktop\\TiendaMaquillaje\\TiendaMaquillaje\\TiendadeBelleza\\TiendadeBelleza\\Descuento.cs",
+              "RelativeDocumentMoniker": "Descuento.cs",
+              "ToolTip": "C:\\Users\\sofia\\Desktop\\TiendaMaquillaje\\TiendaMaquillaje\\TiendadeBelleza\\TiendadeBelleza\\Descuento.cs",
+              "RelativeToolTip": "Descuento.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABkAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-17T04:43:19.562Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 4,
-              "Title": "UICrearUsuario.cs",
-              "DocumentMoniker": "C:\\Users\\saalv\\Downloads\\TiendaDeMaquillaje\\TiendadeBelleza\\TiendadeBelleza\\UICrearUsuario.cs",
-              "RelativeDocumentMoniker": "UICrearUsuario.cs",
-              "ToolTip": "C:\\Users\\saalv\\Downloads\\TiendaDeMaquillaje\\TiendadeBelleza\\TiendadeBelleza\\UICrearUsuario.cs",
-              "RelativeToolTip": "UICrearUsuario.cs",
-              "ViewState": "AgIAABUAAAAAAAAAAAAAAAsAAAAJAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-03-15T20:19:05.557Z",
+              "Title": "productosCabello.csv",
+              "DocumentMoniker": "C:\\Users\\sofia\\Desktop\\TiendaMaquillaje\\TiendaMaquillaje\\TiendadeBelleza\\TiendadeBelleza\\Archivos\\productosCabello.csv",
+              "RelativeDocumentMoniker": "Archivos\\productosCabello.csv",
+              "ToolTip": "C:\\Users\\sofia\\Desktop\\TiendaMaquillaje\\TiendaMaquillaje\\TiendadeBelleza\\TiendadeBelleza\\Archivos\\productosCabello.csv",
+              "RelativeToolTip": "Archivos\\productosCabello.csv",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAxAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.002120|",
+              "WhenOpened": "2026-03-17T04:40:08.646Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 5,
+              "DocumentIndex": 1,
+              "Title": "Caja.cs",
+              "DocumentMoniker": "C:\\Users\\sofia\\Desktop\\TiendaMaquillaje\\TiendaMaquillaje\\TiendadeBelleza\\TiendadeBelleza\\Caja.cs",
+              "RelativeDocumentMoniker": "Caja.cs",
+              "ToolTip": "C:\\Users\\sofia\\Desktop\\TiendaMaquillaje\\TiendaMaquillaje\\TiendadeBelleza\\TiendadeBelleza\\Caja.cs",
+              "RelativeToolTip": "Caja.cs",
+              "ViewState": "AgIAABgAAAAAAAAAAAAAAEoAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-17T04:35:33.62Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "clientes.csv",
+              "DocumentMoniker": "C:\\Users\\sofia\\Desktop\\TiendaMaquillaje\\TiendaMaquillaje\\TiendadeBelleza\\TiendadeBelleza\\Archivos\\clientes.csv",
+              "RelativeDocumentMoniker": "Archivos\\clientes.csv",
+              "ToolTip": "C:\\Users\\sofia\\Desktop\\TiendaMaquillaje\\TiendaMaquillaje\\TiendadeBelleza\\TiendadeBelleza\\Archivos\\clientes.csv",
+              "RelativeToolTip": "Archivos\\clientes.csv",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.002120|",
+              "WhenOpened": "2026-03-17T03:47:12.074Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
               "Title": "UIIngresarUsuario.cs",
-              "DocumentMoniker": "C:\\Users\\saalv\\Downloads\\TiendaDeMaquillaje\\TiendadeBelleza\\TiendadeBelleza\\UIIngresarUsuario.cs",
+              "DocumentMoniker": "C:\\Users\\sofia\\Desktop\\TiendaMaquillaje\\TiendaMaquillaje\\TiendadeBelleza\\TiendadeBelleza\\UIIngresarUsuario.cs",
               "RelativeDocumentMoniker": "UIIngresarUsuario.cs",
-              "ToolTip": "C:\\Users\\saalv\\Downloads\\TiendaDeMaquillaje\\TiendadeBelleza\\TiendadeBelleza\\UIIngresarUsuario.cs",
+              "ToolTip": "C:\\Users\\sofia\\Desktop\\TiendaMaquillaje\\TiendaMaquillaje\\TiendadeBelleza\\TiendadeBelleza\\UIIngresarUsuario.cs",
               "RelativeToolTip": "UIIngresarUsuario.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "ViewState": "AgIAAH0AAAAAAAAAAAAAAIIAAAAJAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2026-03-15T20:18:56.874Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 7,
-              "Title": "UIProductosHombre.cs",
-              "DocumentMoniker": "C:\\Users\\saalv\\Downloads\\TiendaDeMaquillaje\\TiendadeBelleza\\TiendadeBelleza\\UIProductosHombre.cs",
-              "RelativeDocumentMoniker": "UIProductosHombre.cs",
-              "ToolTip": "C:\\Users\\saalv\\Downloads\\TiendaDeMaquillaje\\TiendadeBelleza\\TiendadeBelleza\\UIProductosHombre.cs",
-              "RelativeToolTip": "UIProductosHombre.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "DocumentIndex": 9,
+              "Title": "UICrearUsuario.cs",
+              "DocumentMoniker": "C:\\Users\\sofia\\Desktop\\TiendaMaquillaje\\TiendaMaquillaje\\TiendadeBelleza\\TiendadeBelleza\\UICrearUsuario.cs",
+              "RelativeDocumentMoniker": "UICrearUsuario.cs",
+              "ToolTip": "C:\\Users\\sofia\\Desktop\\TiendaMaquillaje\\TiendaMaquillaje\\TiendadeBelleza\\TiendadeBelleza\\UICrearUsuario.cs",
+              "RelativeToolTip": "UICrearUsuario.cs",
+              "ViewState": "AgIAAEkAAAAAAAAAAAAvwB4AAAAFAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-03-15T20:18:54.952Z"
+              "WhenOpened": "2026-03-15T20:19:05.557Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "UIMaquillaje.cs",
+              "DocumentMoniker": "C:\\Users\\sofia\\Desktop\\TiendaMaquillaje\\TiendaMaquillaje\\TiendadeBelleza\\TiendadeBelleza\\UIMaquillaje.cs",
+              "RelativeDocumentMoniker": "UIMaquillaje.cs",
+              "ToolTip": "C:\\Users\\sofia\\Desktop\\TiendaMaquillaje\\TiendaMaquillaje\\TiendadeBelleza\\TiendadeBelleza\\UIMaquillaje.cs",
+              "RelativeToolTip": "UIMaquillaje.cs",
+              "ViewState": "AgIAAIEAAAAAAAAAAAAvwJoAAAAbAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-15T20:18:53.884Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "UICabello.cs",
+              "DocumentMoniker": "C:\\Users\\sofia\\Desktop\\TiendaMaquillaje\\TiendaMaquillaje\\TiendadeBelleza\\TiendadeBelleza\\UICabello.cs",
+              "RelativeDocumentMoniker": "UICabello.cs",
+              "ToolTip": "C:\\Users\\sofia\\Desktop\\TiendaMaquillaje\\TiendaMaquillaje\\TiendadeBelleza\\TiendadeBelleza\\UICabello.cs",
+              "RelativeToolTip": "UICabello.cs",
+              "ViewState": "AgIAAEkAAAAAAAAAAAAlwBIAAABIAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-15T20:26:39.552Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 6,
+              "Title": "productosHombre.csv",
+              "DocumentMoniker": "C:\\Users\\sofia\\Desktop\\TiendaMaquillaje\\TiendaMaquillaje\\TiendadeBelleza\\TiendadeBelleza\\Archivos\\productosHombre.csv",
+              "RelativeDocumentMoniker": "Archivos\\productosHombre.csv",
+              "ToolTip": "C:\\Users\\sofia\\Desktop\\TiendaMaquillaje\\TiendaMaquillaje\\TiendadeBelleza\\TiendadeBelleza\\Archivos\\productosHombre.csv",
+              "RelativeToolTip": "Archivos\\productosHombre.csv",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAQAAAA6AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.002120|",
+              "WhenOpened": "2026-03-17T03:34:55.616Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "maquillaje.csv",
+              "DocumentMoniker": "C:\\Users\\sofia\\Desktop\\TiendaMaquillaje\\TiendaMaquillaje\\TiendadeBelleza\\TiendadeBelleza\\Archivos\\maquillaje.csv",
+              "RelativeDocumentMoniker": "Archivos\\maquillaje.csv",
+              "ToolTip": "C:\\Users\\sofia\\Desktop\\TiendaMaquillaje\\TiendaMaquillaje\\TiendadeBelleza\\TiendadeBelleza\\Archivos\\maquillaje.csv",
+              "RelativeToolTip": "Archivos\\maquillaje.csv",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.002120|",
+              "WhenOpened": "2026-03-17T03:34:51.684Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "TiendadeBelleza.csproj",
+              "DocumentMoniker": "C:\\Users\\sofia\\Desktop\\TiendaMaquillaje\\TiendaMaquillaje\\TiendadeBelleza\\TiendadeBelleza\\TiendadeBelleza.csproj",
+              "RelativeDocumentMoniker": "TiendadeBelleza.csproj",
+              "ToolTip": "C:\\Users\\sofia\\Desktop\\TiendaMaquillaje\\TiendaMaquillaje\\TiendadeBelleza\\TiendadeBelleza\\TiendadeBelleza.csproj",
+              "RelativeToolTip": "TiendadeBelleza.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAgAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2026-03-15T20:26:42.579Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "UIProductosHombre.cs",
+              "DocumentMoniker": "C:\\Users\\sofia\\Desktop\\TiendaMaquillaje\\TiendaMaquillaje\\TiendadeBelleza\\TiendadeBelleza\\UIProductosHombre.cs",
+              "RelativeDocumentMoniker": "UIProductosHombre.cs",
+              "ToolTip": "C:\\Users\\sofia\\Desktop\\TiendaMaquillaje\\TiendaMaquillaje\\TiendadeBelleza\\TiendadeBelleza\\UIProductosHombre.cs",
+              "RelativeToolTip": "UIProductosHombre.cs",
+              "ViewState": "AgIAAG0AAAAAAAAAAIBJwAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-15T20:18:54.952Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
               "Title": "UIFactura.cs",
-              "DocumentMoniker": "C:\\Users\\saalv\\Downloads\\TiendaDeMaquillaje\\TiendadeBelleza\\TiendadeBelleza\\UIFactura.cs",
+              "DocumentMoniker": "C:\\Users\\sofia\\Desktop\\TiendaMaquillaje\\TiendaMaquillaje\\TiendadeBelleza\\TiendadeBelleza\\UIFactura.cs",
               "RelativeDocumentMoniker": "UIFactura.cs",
-              "ToolTip": "C:\\Users\\saalv\\Downloads\\TiendaDeMaquillaje\\TiendadeBelleza\\TiendadeBelleza\\UIFactura.cs",
+              "ToolTip": "C:\\Users\\sofia\\Desktop\\TiendaMaquillaje\\TiendaMaquillaje\\TiendadeBelleza\\TiendadeBelleza\\UIFactura.cs",
               "RelativeToolTip": "UIFactura.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
